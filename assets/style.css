@@ -7,17 +7,16 @@ img {
     max-height: 50%
     }
 
-.welcome-text {
-    text-align: center;
+.text-center {
     max-width: fit-content;
     color: red;
 }
 
 .homepage-img {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 99%;
+    max-height: 99%;
 }
 
-.button {
+.button-color {
     color: black;
 }
