@@ -17,6 +17,9 @@ homepage-img {
     max-height: 99%;
 }
 
-button-color {
-    color: black;
-}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
