@@ -8,8 +8,8 @@ h1 {
 }
 
 homepage-img {
-    max-width: 99%;
-    max-height: 99%;
+    max-width: 85%;
+    max-height: 85%;
 }
 
 
@@ -18,3 +18,8 @@ a:link {
     background-color: transparent;
     text-decoration: none;
   }
+
+.card-img {
+    max-width: 200px;
+    max-height: 200px;
+}
