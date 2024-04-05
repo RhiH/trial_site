@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: #FDFCF0 ;
 }
 
 img {
@@ -7,16 +7,16 @@ img {
     max-height: 50%
     }
 
-.h1 {
+h1 {
     max-width: fit-content;
-    color: green;
+    color: #183F1A;
 }
 
-.homepage-img {
+homepage-img {
     max-width: 99%;
     max-height: 99%;
 }
 
-.button-color {
+button-color {
     color: black;
 }
