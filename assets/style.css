@@ -2,11 +2,6 @@ body {
     background-color: #FDFCF0 ;
 }
 
-img {
-    max-width: 85%;
-    max-height: 85%
-    }
-
 h1 {
     max-width: fit-content;
     color: #183F1A;
