@@ -22,4 +22,11 @@ a:link {
 .card-img {
     max-width: 200px;
     max-height: 200px;
+    border: 10px;
+}
+
+.card-img-top {
+    max-height: 100px;
+    max-width: fit-content;
+    justify-content: center;
 }
