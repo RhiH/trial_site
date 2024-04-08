@@ -1,5 +1,6 @@
 body {
-    background-color: #FDFCF0 ;
+    background-color: #FDFCF0;
+    justify-content: center;
 }
 
 h1 {
@@ -18,7 +19,6 @@ a:link {
     background-color: transparent;
     text-decoration: none;
   }
-
 .card-img {
     max-width: 200px;
     max-height: 200px;
