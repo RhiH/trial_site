@@ -1,12 +1,22 @@
 body {
+    background: url(/assets/images/IMG_4899.JPG) no-repeat center center fixed;
+    background-size:auto;
     background-color: #FDFCF0;
     justify-content: center;
+}
+
+.centered {
+
+        position: relative;
+      
 }
 
 h1, h2 {
     max-width: fit-content;
     color: #183F1A;
 }
+
+
 
 homepage-img {
     max-width: 85%;
