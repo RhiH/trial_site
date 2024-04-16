@@ -43,7 +43,12 @@ a:link {
     position: relative;
 }
 
+.carousel-item {
+    height: 500px;
+}
+
 .carousel {
     margin-bottom: 4rem;
     position: relative;
 }
+
