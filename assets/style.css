@@ -1,6 +1,4 @@
 body {
-    background: url(/assets/images/IMG_4899.JPG) no-repeat center center fixed;
-    background-size:auto;
     background-color: #FDFCF0;
     justify-content: center;
 }
@@ -11,7 +9,7 @@ body {
       
 }
 
-h1, h2 {
+h1, h2, h3, font {
     max-width: fit-content;
     color: #183F1A;
 }
@@ -38,4 +36,14 @@ a:link {
     max-height: 100px;
     max-width: fit-content;
     justify-content: center;
+}
+
+.home-img {
+    size: 75%;
+    position: relative;
+}
+
+.carousel {
+    margin-bottom: 4rem;
+    position: relative;
 }
