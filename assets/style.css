@@ -52,3 +52,9 @@ a:link {
     position: relative;
 }
 
+.carousel-image {
+    position: center;
+    width: 20rem;
+    height: 20rem;
+}
+
