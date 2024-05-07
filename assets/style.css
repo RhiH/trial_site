@@ -9,11 +9,10 @@ body {
       
 }
 
-h1, h2, h3, font {
+h1, h2, h3, h4 {
     max-width: fit-content;
     color: #183F1A;
 }
-
 
 
 homepage-img {
@@ -26,6 +25,7 @@ a:link {
     background-color: transparent;
     text-decoration: none;
   }
+
 .card-img {
     max-width: 200px;
     max-height: 200px;
@@ -44,7 +44,7 @@ a:link {
 }
 
 .carousel-item {
-    height: 500px;
+    height: 45rem;
 }
 
 .carousel {
@@ -54,7 +54,13 @@ a:link {
 
 .carousel-image {
     position: center;
-    width: 20rem;
-    height: 20rem;
+    margin: 10px;
+    height: 35rem;
+    width: 35rem;
+}
+
+.text-end {
+
+    text-align: right !important;
 }
 
