@@ -10,11 +10,6 @@ body {
       
 }
 
-h1, h2, h3, h4 {
-    max-width: fit-content;
-    color: #183F1A;
-}
-
 
 homepage-img {
     max-width: 85%;
@@ -28,13 +23,13 @@ a:link {
   }
 
 .card-img {
-    max-width: 200px;
-    max-height: 200px;
+    max-width: 300px;
+    max-height: 300px;
     border: 10px;
 }
 
 .card-img-top {
-    max-height: 100px;
+    max-height: 200px;
     max-width: fit-content;
     justify-content: center;
 }
