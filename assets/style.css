@@ -1,13 +1,12 @@
 body {
     background-color: #FDFCF0;
     justify-content: center;
-    background-image: url(images/IMG_4859.JPG);
+
 }
 
 .centered {
 
         position: relative;
-      
 }
 
 
@@ -32,11 +31,6 @@ a:link {
     max-height: 200px;
     max-width: fit-content;
     justify-content: center;
-}
-
-.home-img {
-    size: 75%;
-    position: relative;
 }
 
 .carousel-item {
