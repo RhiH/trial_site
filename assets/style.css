@@ -21,17 +21,7 @@ a:link {
     text-decoration: none;
   }
 
-.card-img {
-    max-width: 300px;
-    max-height: 300px;
-    border: 10px;
-}
-
-.card-img-top {
-    max-height: 200px;
-    max-width: fit-content;
-    justify-content: center;
-}
+    
 
 .carousel-item {
     height: 45rem;
